@@ -109,7 +109,8 @@ oversee all activities within the website.
 #### **Postconditions** - This account should be able to override and must have access to the entire structure
 of the website.
 #### **Actors** – It can be opened on any digital device with administrative email and password
-#### **Flow of Events** - On a sign-in page, the department head will enter an admin email and password which will then proceed to the administrative page.
+#### **Flow of Events** -
+On a sign-in page, the department head will enter an admin email and password which will then proceed to the administrative page.
 <br><br>
 
 ### **3.3.2 Use Case #2(staff/teachers)**
