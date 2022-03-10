@@ -1,5 +1,5 @@
 3 Specific
-Requirements..............................................................................................................4
+Requirements............................................................................................................................4
 3.1 External Interface
 Requirements...............................................................................................................4
 3.2 Functional Requirements.............................................................................................................. 4
@@ -73,7 +73,7 @@ give a platform for the staff and students to directly be in touch thereby elimi
 miscommunication or hurdles.
 #### **● There will be a page specifically tailored to every use case(Admin, Staff, and Students)**
 #### **Admin page**
-***
+
 * The department head is the sole user of this page. It will enable the admin to grant or
 revoke access to other users.
 * Capable of overseeing all activities and users within the website.
@@ -82,13 +82,13 @@ revoke access to other users.
 * The override option will be listed.
 * Activity history will be laid out.
 #### **Staff/teacher page**
-***
+
 * It’s only available for staff members.
 * Displays teacher’s corresponding classes, students, and schedules.
 * Alternative to answer Q&A will be shown.
 * There will be a privilege to post course materials.
 #### **Student page**
-***
+
 * Every student will have this page.
 * They will have access to their course, schedule, and teacher’s profile.
 * In addition, they can ask questions on the Q&A page and surf the website.
@@ -143,7 +143,7 @@ teachers in a forum like chatroom.
 #### **Actors** – Students can access the website through any device with a browser as long as they have an
 activated and valid institutional email
 #### **Flow of Events**
-#### * **Basic Flow**
+#### &nbsp;&nbsp;&nbsp; **Basic Flow**
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. Student Login which will redirect to the homepage if login is &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;authorized.
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. View homepage where announcements are posted
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Access chatroom to ask questions
