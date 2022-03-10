@@ -1,20 +1,29 @@
 3 Specific
 Requirements...............................................................................................................................................................................................................4
+<br>
 3.1 External Interface
 Requirements...........................................................................................................................................4
+<br>
 3.2 Functional Requirements.......................................................................................................................................... 4
+<br>
 3.3 Use Case
 Model............................................................................................................................. 5
+<br>
 4 Other Non-functional
 Requirements.............................................................................................................. 6
+<br>
 4.1 Performance
 Requiremen................................................................................................................. 6
+<br>
 4.2 Safety and Security
 Requirements.............................................................................................................. 6
+<br>
 4.3 Software Quality
 Attributes...................................................................................................................... 6
+<br>
 5 Other
 Requirements.............................................................................................................. 7
+<br>
 
 Appendix B - Group
 Log.................................................................................................................................. 9
@@ -101,54 +110,77 @@ revoke access to other users.
 ### **3.3.1 Use Case #1 (Departement head)**
 <br>
 
-#### **Purpose** - The admin will be able to gain access to all accounts in the database and will be able to
+#### **Purpose** 
+The admin will be able to gain access to all accounts in the database and will be able to
 oversee all activities within the website.
-#### **Requirements Traceability** – Email, employee id, password, and activity history.
-#### **Priority** - High priority
-#### **Preconditions** -The website must be fully functioning with an accessible database.
-#### **Postconditions** - This account should be able to override and must have access to the entire structure
+#### **Requirements Traceability** 
+Email, employee id, password, and activity history.
+#### **Priority** 
+High priority
+#### **Preconditions** 
+The website must be fully functioning with an accessible database.
+#### **Postconditions** 
+This account should be able to override and must have access to the entire structure
 of the website.
-#### **Actors** – It can be opened on any digital device with administrative email and password
-#### **Flow of Events** -
+#### **Actors** 
+It can be opened on any digital device with administrative email and password
+#### **Flow of Events** 
 On a sign-in page, the department head will enter an admin email and password which will then proceed to the administrative page.
 <br><br>
 
 ### **3.3.2 Use Case #2(staff/teachers)**
 <br>
 
-#### **Purpose** - In this case, teachers can communicate with their students directly , have a sense of what’s
+#### **Purpose** 
+In this case, teachers can communicate with their students directly , have a sense of what’s
 going on in the department, and post any helpful materials,
-#### **Requirements Traceability** – Employee ID, Institutional email, password.
-#### **Priority** - Medium priority
-Preconditions - Registered staff email and password while the website is functioning.
-#### **Postconditions** - Teachers will be able to access students and answer any questions on the Q&A
+#### **Requirements Traceability** 
+Employee ID, Institutional email, password.
+#### **Priority** 
+Medium priority
+Preconditions 
+Registered staff email and password while the website is functioning.
+#### **Postconditions** 
+Teachers will be able to access students and answer any questions on the Q&A
 page. They will also be able to post learning material and class schedules. In addition, they can surf
 the website
-#### **Actors** – Teachers can access their account on any device provided that they have valid email and
+#### **Actors** 
+Teachers can access their account on any device provided that they have valid email and
 password.
-#### **Flow of Events** - Upon logging into the staff page, a staff member can use the website to post materials, check out the announcements page, or answer questions on the Q&A page.
+#### **Flow of Events** 
+Upon logging into the staff page, a staff member can use the website to post materials, check out the announcements page, or answer questions on the Q&A page.
 <br><br>
 
 ### **3.3.3 Use Case #3(Students)**
 <br>
 
-#### **Purpose** - Students will use the platform to access all the resources available to enhance their
+#### **Purpose** 
+Students will use the platform to access all the resources available to enhance their
 studying and learning skills. They will also use it to ask questions and get helpful feedback from the
 staff and other members.
-#### **Requirements Traceability** – Institutional email, password, username and ID number
-#### **Priority** - High
-#### **Preconditions** - Students must activate their institutional emails to be able to access this website well
-#### **Post conditions** - Students will be able to search for resources, view their entire academic year
+#### **Requirements Traceability** 
+Institutional email, password, username and ID number
+#### **Priority** 
+High
+#### **Preconditions** 
+Students must activate their institutional emails to be able to access this website well
+#### **Post conditions** 
+Students will be able to search for resources, view their entire academic year
 calendar. View the locations of important facilities and be able to interact with other students and
 teachers in a forum like chatroom.
-#### **Actors** – Students can access the website through any device with a browser as long as they have an
+#### **Actors** 
+Students can access the website through any device with a browser as long as they have an
 activated and valid institutional email
 #### **Flow of Events**
 #### &nbsp;&nbsp;&nbsp; **Basic Flow**
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. Student Login which will redirect to the homepage if login is &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;authorized.
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. View homepage where announcements are posted
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Access chatroom to ask questions
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Academic access which leads to resources and academic &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;calendar.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+a. Student Login which will redirect to the homepage if login is &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;authorized.
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+b. View homepage where announcements are posted
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+c. Access chatroom to ask questions
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+d. Academic access which leads to resources and academic &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;calendar.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 e. Access locations of basic facilities, labs and offices.
 <br><br>
