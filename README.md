@@ -61,7 +61,9 @@ is there hence it is economically feasible.
 <dd>
 
 ```
-The department head will have a special login page where he has special credentials to login which enables him to have administrative access to the entire platform. Which includes resetting passwords of any account, direct access to the front page announcements and administrative access to the database.
+The department head will have a special login page where he has special credentials to login which 
+ enables him to have administrative access to the entire platform. Which includes resetting passwords 
+ of any account, direct access to the front page announcements and administrative access to the database.
 ```
 </dd>
 <dt>
@@ -129,7 +131,9 @@ manner.
 <dd>
 
 ```
-In this page ,the course materials and recommended suggestions for the entire batch will be listed (Written source, Audio-visual aids, e-learning/technology, Objects, Events, and People etc) that can be used to support or help Teaching and Learning.
+In this page ,the course materials and recommended suggestions for the entire batch will be
+ listed  (Written source,Audio-visual aids, e-learning/technology, Objects, Events, and People 
+ etc) that can be used to support or help Teaching and Learning.
 ```
 </dd>
 <dt>
@@ -139,8 +143,9 @@ In this page ,the course materials and recommended suggestions for the entire ba
 <dd>
 
 ```
-Most students are curious to find out what they’ll learn the semesters and years ahead.So we’ll provide a page where all the subjects that will be taught throughout the 5 years
-of software engineering. This will include the names of subjects, resources they’ll use,credit hours and so on.
+Most students are curious to find out what they’ll learn the semesters and years ahead.So we’ll 
+ provide a page where all the subjects that will be taught throughout the 5 years of software 
+ engineering. This will include the names of subjects, resources they’ll use,credit hours and so on.
 ```
 </dd>
 <dt>
@@ -150,7 +155,8 @@ of software engineering. This will include the names of subjects, resources they
 <dd>
 
 ```
-Due to communication gaps both staff and students suffer to communicate.This page will give a platform for the staff and students to directly be in touch thereby eliminating any miscommunication or hurdles.
+Due to communication gaps both staff and students suffer to communicate.This page will give a platform 
+ for the staff and students to directly be in touch thereby eliminating any miscommunication or hurdles.
 ```
 </dd>
 <dt>
@@ -273,7 +279,8 @@ It can be opened on any digital device with administrative email and password
 <dd>
 
 ```
-On a sign-in page, the department head will enter an admin email and password which will then proceed to the administrative page.
+On a sign-in page, the department head will enter an admin email and password which will 
+ then proceed to the administrative page.
 ```
 </dd>
 </dl>
@@ -346,7 +353,8 @@ password.
 <dd>
 
 ```
-Upon logging into the staff page, a staff member can use the website to post materials, check out the announcements page, or answer questions on the Q&A page.
+Upon logging into the staff page, a staff member can use the website to post materials, check out
+ the announcements page, or answer questions on the Q&A page.
 ```
 </dd>
 </dl>
@@ -437,7 +445,8 @@ activated and valid institutional email
 </p>
 
 ```
-The website should be hosted on a server that can respond quickly enough. Due to the short attention spans of high school pupils, a sluggish server would be unsuitable for this application.
+The website should be hosted on a server that can respond quickly enough. Due to the short attention 
+ spans of high school pupils, a sluggish server would be unsuitable for this application.
 ```
 <p id ="4.2">
 
